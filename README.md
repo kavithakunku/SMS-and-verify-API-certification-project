@@ -1,5 +1,5 @@
 # SMS-and-verify-API-certification-project
-Steps to Execute the poject
+Steps to Execute the project
 1. Run the index.js file using node index.js
 2. After running the file you will be seen port running on given port number
 3. Now go to index.html file and open it with any browser.
